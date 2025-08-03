@@ -1,1 +1,2 @@
-const WGMI_ABI = [/* ... ABI array ... */];
+const abi = [ ... ];        // Presale contract ABI
+const usdtABI = [ ... ];    // USDT token ABI
