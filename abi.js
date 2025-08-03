@@ -1,1 +1,0 @@
-const WGMI_ABI = [/* ... ABI array ... */];
