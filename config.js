@@ -1,3 +1,0 @@
-const PRESALE_CONTRACT = '0xYourTestnetPresaleContract';
-const USDT_CONTRACT = '0xYourTestnetUSDTContract';
-const DEAD_WALLET = '0x000000000000000000000000000000000000dEaD';
