@@ -1,1 +1,0 @@
-// JS logic for presale and staking interactions
