@@ -1,4 +1,3 @@
-
 // Connect to MetaMask
 async function connectWallet() {
   if (window.ethereum) {
