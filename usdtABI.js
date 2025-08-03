@@ -1,0 +1,1 @@
+const USDT_ABI = [/* ... USDT ABI ... */];
